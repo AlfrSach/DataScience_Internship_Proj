@@ -5,7 +5,7 @@ import plotly.express as px
 
 st.title("Dashboard - Sales Data")
 
-img = image.imread(r"C:\Users\tripl\OneDrive\Desktop\Python\Innomatics Internship\My_Proj\resources\image\sales.jpg")
+img = image.imread(r"resources\image\sales.jpg")
 st.image(img)
 
 
